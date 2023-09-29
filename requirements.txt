@@ -185,6 +185,3 @@ xformers==0.0.20
 yapf==0.40.1
 yarl==1.9.2
 zipp==3.16.2
-
-libjpeg-dev
-libpng-dev
